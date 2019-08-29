@@ -2,6 +2,7 @@ package com.quantexa.assignments.accounts
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.sql.SparkSession
+import org.apache.spark.sql.expressions.scalalang.typed
 
 /***
  * A common problem we face at Quantexa is having lots of disjointed raw sources of data and having to aggregate and collect
@@ -91,8 +92,30 @@ object AccountAssignment extends App {
 
   //END GIVEN CODE
 
-  
-  
-  
+  // Get all aggregate data for each customer
+  val customerAggregatesDF = accountDS.groupByKey(_.customerId)
+    .agg(typed.count(_.accountId), typed.sum(_.balance), typed.avg(_.balance))
+    .toDF("customerId", "numberAccounts", "totalBalance", "averageBalance")
 
+  // Get list of accounts for each customer
+  val customerAccountsDF = accountDS
+    .groupByKey(_.customerId)
+    .mapGroups { case (key, accountData) => (key, accountData.toArray) }
+    .toDF("customerId", "accounts")
+
+
+  //customerAggregatesDF.show
+  //customerAccountsDF.show
+
+  // Combine all data together and cast to dataset.
+  val customerAccountOutputDS = customerDS
+    .join(customerAccountsDF, Seq("customerId"), "left_outer")
+    .join(customerAggregatesDF, Seq("customerId"), "left_outer")
+    .withColumn("numberAccounts", 'numberAccounts.cast("Int"))
+    .withColumn("totalBalance", 'totalBalance.cast("BigInt"))
+    .na.fill(0, Seq("numberAccounts","totalBalance","averageBalance"))
+    //.na.fill("", Seq("accounts"))  ::TODO Not able to get this working!!!!
+    .as[CustomerAccountOutput]
+
+  customerAccountOutputDS.show
 }
