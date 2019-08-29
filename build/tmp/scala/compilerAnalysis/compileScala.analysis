@@ -1,0 +1,577 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+11 items
+00 -> -source
+01 -> 1.8
+02 -> -target
+03 -> 1.8
+04 -> -d
+05 -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main
+06 -> -g
+07 -> -proc:none
+08 -> -s
+09 -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/generated/sources/annotationProcessor/scala/main
+10 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+27 items
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$$typecreator1$1.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$$typecreator2$1.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$AccountData$.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$AccountData.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$CustomerAccountOutput$.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$CustomerAccountOutput.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$CustomerData$.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$CustomerData.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$delayedInit$body.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$$anonfun$1.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$$anonfun$2.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$$anonfun$3.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$$anonfun$4.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$AddressData$.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$AddressData.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$AddressGroupedData$.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$AddressGroupedData.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$delayedInit$body.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/transactions/TransactionAssignment$$anonfun$1.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/transactions/TransactionAssignment$.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/transactions/TransactionAssignment$Transaction$.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/transactions/TransactionAssignment$Transaction.class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> /Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/transactions/TransactionAssignment.class
+binary dependencies:
+10 items
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.11/2.0.1/6ec349826230a736defd5ac69b73a7a78f759f3/spark-catalyst_2.11-2.0.1.jar
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/2.0.1/51e69073dc56582cb2037d299f7a51d823f69dc9/spark-sql_2.11-2.0.1.jar
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> /Users/odhranh/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.8/b74530deeba742ab4f3134de0c2da0edc49ca361/scala-reflect-2.11.8.jar
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> /Users/odhranh/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> /Users/odhranh/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+27 items
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> com.quantexa.assignments.accounts.AccountAssignment
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> com.quantexa.assignments.accounts.AccountAssignment$
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> com.quantexa.assignments.accounts.AccountAssignment$$typecreator1$1
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> com.quantexa.assignments.accounts.AccountAssignment$$typecreator2$1
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> com.quantexa.assignments.accounts.AccountAssignment$AccountData
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> com.quantexa.assignments.accounts.AccountAssignment$AccountData$
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> com.quantexa.assignments.accounts.AccountAssignment$CustomerAccountOutput
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> com.quantexa.assignments.accounts.AccountAssignment$CustomerAccountOutput$
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> com.quantexa.assignments.accounts.AccountAssignment$CustomerData
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> com.quantexa.assignments.accounts.AccountAssignment$CustomerData$
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> com.quantexa.assignments.accounts.AccountAssignment$delayedInit$body
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> com.quantexa.assignments.addresses.AddressAssignment
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> com.quantexa.assignments.addresses.AddressAssignment$
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> com.quantexa.assignments.addresses.AddressAssignment$$anonfun$1
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> com.quantexa.assignments.addresses.AddressAssignment$$anonfun$2
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> com.quantexa.assignments.addresses.AddressAssignment$$anonfun$3
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> com.quantexa.assignments.addresses.AddressAssignment$$anonfun$4
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> com.quantexa.assignments.addresses.AddressAssignment$AddressData
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> com.quantexa.assignments.addresses.AddressAssignment$AddressData$
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> com.quantexa.assignments.addresses.AddressAssignment$AddressGroupedData
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> com.quantexa.assignments.addresses.AddressAssignment$AddressGroupedData$
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> com.quantexa.assignments.addresses.AddressAssignment$delayedInit$body
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> com.quantexa.assignments.transactions.TransactionAssignment
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> com.quantexa.assignments.transactions.TransactionAssignment$
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> com.quantexa.assignments.transactions.TransactionAssignment$$anonfun$1
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> com.quantexa.assignments.transactions.TransactionAssignment$Transaction
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> com.quantexa.assignments.transactions.TransactionAssignment$Transaction$
+used names:
+371 items
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> $m
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> $m$untyped
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> $typecreator1
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> $typecreator2
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> $u
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> &&
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> <init>
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> ==
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> ?0
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> A
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> AbstractFunction3
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> AbstractFunction7
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> AccountAssignment
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> AccountData
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Any
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> AnyRef
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> App
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Boolean
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Builder
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> ClassLoader
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> ClassSymbol
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Column
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> ColumnName
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> CustomerAccountOutput
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> CustomerData
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> DataFrame
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> DataFrameReader
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Dataset
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Double
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Encoder
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> IndexOutOfBoundsException
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Int
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Iterator
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> JavaUniverse
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Level
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Logger
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Long
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Mirror
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> None
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Nothing
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Object
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Predef
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Product
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> ScalaRunTime
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Seq
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Serializable
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Singleton
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Some
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> SparkSession
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Statics
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> String
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Symbol
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> T
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> T0
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> T1
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> T2
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> T3
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> T4
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> T5
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> T6
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> T7
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Tuple3
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Tuple7
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Type
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> TypeCreator
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> TypeSymbol
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> TypeTag
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> U
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> URL
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Unit
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> Universe
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> WARN
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> _hashCode
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> _toString
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> accountCSV
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> accountDF
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> accountDS
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> accountId
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> accounts
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> anyHash
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> apache
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> appName
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> apply
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> as
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> asInstanceOf
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> asType
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> assignments
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> averageBalance
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> balance
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> builder
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> cast
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> com
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> csv
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> customerCSV
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> customerDF
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> customerDS
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> customerId
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> doubleHash
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> eq
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> finalizeHash
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> forename
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> getClass
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> getClassLoader
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> getOrCreate
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> getPath
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> getResource
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> getRootLogger
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> implicits
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> isInstanceOf
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> log4j
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> longHash
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> master
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> materializeTypeTag
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> mix
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> newProductEncoder
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> numberAccounts
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> option
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> org
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> package
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> quantexa
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> read
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> reflect
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> runtime
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> runtimeMirror
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> scala
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> setLevel
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> show
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> spark
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> sql
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> staticClass
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> surname
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> symbolToColumn
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> toString
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> toTypeConstructor
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> totalBalance
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> typedProductIterator
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> universe
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> withColumn
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> ||
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> !=
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> &&
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> +
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> :+
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> ::
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> <init>
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> <repeated>
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> ==
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> >
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> ?0
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> A
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> AbstractFunction4
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> AbstractFunction5
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> AddressAssignment
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> AddressData
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> AddressGroupedData
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Any
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> AnyRef
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> App
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Array
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> B
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Boolean
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> BufferedSource
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> CanBuildFrom
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Char
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Codec
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Coll
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Function1
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> IndexOutOfBoundsException
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Int
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Iterator
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> List
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Long
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> MatchError
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Nil
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> None
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Nothing
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Object
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Ordering
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Predef
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Product
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Random
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> ScalaRunTime
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Seq
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Serializable
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Some
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Source
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Statics
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> String
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> StringContext
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> StringOps
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> T
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> T0
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> T1
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> T2
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> T3
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> T4
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> T5
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> That
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Tuple2
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Tuple4
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Tuple5
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> U
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> URL
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> Unit
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> _toString
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> addressGroups
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> addressId
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> addressLines
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> addresses
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> annotation
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> anyHash
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> apply
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> asInstanceOf
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> assignments
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> augmentString
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> canBuildFrom
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> collection
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> com
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> currentGroup
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> customerId
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> customerIds
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> drop
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> endDate
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> eq
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> fallbackSystemCodec
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> fileName
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> finalizeHash
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> foreach
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> fromDate
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> fromFile
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> getClass
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> getLines
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> getPath
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> getResource
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> group
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> groupDataByStay
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> groupedData
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> head
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> immutable
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> initialGroup
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> io
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> isInstanceOf
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> length
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> line
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> list
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> longHash
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> map
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> math
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> max
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> mix
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> newCurrentGroup
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> newGroupedData
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> numberOfGroups
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> occupancyData
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> package
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> println
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> quantexa
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> runtime
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> s
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> scala
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> sortBy
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> sortedList
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> split
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> startDate
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> stay
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> tailrec
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> toDate
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> toInt
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> toList
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> toString
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> typedProductIterator
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> util
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> x
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> x$3
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> x$4
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> x$5
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> x$6
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> x$7
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> xs
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> ||
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> &&
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> <init>
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> ==
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> ?0
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> A
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> AbstractFunction5
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Any
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> AnyRef
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Array
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> B
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Boolean
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> BufferedSource
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Char
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Class
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Codec
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Double
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Function1
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> IndexOutOfBoundsException
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Int
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Iterator
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> List
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> None
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Nothing
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Object
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Predef
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Product
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> ScalaRunTime
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Serializable
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Some
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Source
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Statics
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> String
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> StringOps
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> T
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> T0
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> T1
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> T2
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> T3
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> T4
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> T5
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Transaction
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> TransactionAssignment
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Try
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> Tuple5
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> URL
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> _toString
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> accountId
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> annotation
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> anyHash
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> apply
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> asInstanceOf
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> assignments
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> augmentString
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> category
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> com
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> doubleHash
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> drop
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> eq
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> fallbackSystemCodec
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> fileName
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> finalizeHash
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> fromFile
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> getClass
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> getLines
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> getPath
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> getResource
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> io
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> isInstanceOf
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> line
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> map
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> mix
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> package
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> quantexa
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> runtime
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> scala
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> split
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> tailrec
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> toDouble
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> toInt
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> toList
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> toString
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> transactionAmount
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> transactionDay
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> transactionId
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> transactionLines
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> transactions
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> typedProductIterator
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> util
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> ||
+product stamps:
+27 items
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$$typecreator1$1.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$$typecreator2$1.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$AccountData$.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$AccountData.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$CustomerAccountOutput$.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$CustomerAccountOutput.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$CustomerData$.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$CustomerData.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment$delayedInit$body.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/accounts/AccountAssignment.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$$anonfun$1.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$$anonfun$2.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$$anonfun$3.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$$anonfun$4.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$AddressData$.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$AddressData.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$AddressGroupedData$.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$AddressGroupedData.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment$delayedInit$body.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/addresses/AddressAssignment.class -> lastModified(1567038569000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/transactions/TransactionAssignment$$anonfun$1.class -> lastModified(1567038570000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/transactions/TransactionAssignment$.class -> lastModified(1567038570000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/transactions/TransactionAssignment$Transaction$.class -> lastModified(1567038570000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/transactions/TransactionAssignment$Transaction.class -> lastModified(1567038570000)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/build/classes/scala/main/com/quantexa/assignments/transactions/TransactionAssignment.class -> lastModified(1567038569000)
+source stamps:
+3 items
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> hash(df73bcf252ad3c7d39334e745ffd7a1ca3b51091)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> hash(2c671ad222d158b2163f12f0eda453e95376969d)
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> hash(d38d7bf1f9a4aea83fdc75a9688b4c5544853ebc)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466589303000)
+/Users/odhranh/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar -> lastModified(1566486145000)
+/Users/odhranh/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.11/2.0.1/6ec349826230a736defd5ac69b73a7a78f759f3/spark-catalyst_2.11-2.0.1.jar -> lastModified(1566486148000)
+/Users/odhranh/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/2.0.1/51e69073dc56582cb2037d299f7a51d823f69dc9/spark-sql_2.11-2.0.1.jar -> lastModified(1566486145000)
+/Users/odhranh/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar -> lastModified(1566486137000)
+/Users/odhranh/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.8/b74530deeba742ab4f3134de0c2da0edc49ca361/scala-reflect-2.11.8.jar -> lastModified(1566486136000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/odhranh/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar -> org.apache.log4j.Category
+/Users/odhranh/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.11/2.0.1/6ec349826230a736defd5ac69b73a7a78f759f3/spark-catalyst_2.11-2.0.1.jar -> org.apache.spark.sql.Encoder
+/Users/odhranh/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/2.0.1/51e69073dc56582cb2037d299f7a51d823f69dc9/spark-sql_2.11-2.0.1.jar -> org.apache.spark.sql.package$
+/Users/odhranh/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar -> scala.Product
+/Users/odhranh/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.8/b74530deeba742ab4f3134de0c2da0edc49ca361/scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+internal apis:
+3 items
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwxO773wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA+c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDQ5UdnQABm5vdGlmeXNxAH4ADLoxWMl0AAd1bmFwcGx5c3EAfgAMIh4bUnQAB2N1cnJpZWRzcQB+AAzlEXCEdAAEd2FpdHNxAH4ADPZPtU50AA5jb3B5JGRlZmF1bHQkMnNxAH4ADPBydTp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMuxa7k3QADmNvcHkkZGVmYXVsdCQ1c3EAfgAMY2l7x3QACmN1c3RvbWVyREZzcQB+AAziMxNtdAAKY3VzdG9tZXJEU3NxAH4ADGFo2XB0AAx0b3RhbEJhbGFuY2VzcQB+AAxCvuEVdAAKYWNjb3VudENTVnNxAH4ADBCFvEl0AAxwcm9kdWN0QXJpdHlzcQB+AAzayo/YdAAGZXF1YWxzc3EAfgAMtCD9g3QADGFzSW5zdGFuY2VPZnNxAH4ADMFf/+V0AA5leGVjdXRpb25TdGFydHNxAH4ADDIT+th0AAtBY2NvdW50RGF0YXNxAH4ADE31C490AAxzeW5jaHJvbml6ZWRzcQB+AAw9wZaOdAANJGlzSW5zdGFuY2VPZnNxAH4ADNKrwMt0AAdzdXJuYW1lc3EAfgAMTY9v73QABnR1cGxlZHNxAH4ADCuGvx50AAhjYW5FcXVhbHNxAH4ADGRvDaZ0AAdiYWxhbmNlc3EAfgAMRXmhRHQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMJw9Wt3QACWFjY291bnRJZHNxAH4ADA7ZX7t0AARtYWluc3EAfgAMSK9lXHQACWFjY291bnRERnNxAH4ADMAAXdN0AA1wcm9kdWN0UHJlZml4c3EAfgAM6779C3QACW5vdGlmeUFsbHNxAH4ADJG5pl10AAxpc0luc3RhbmNlT2ZzcQB+AAxEv4sldAAKY3VzdG9tZXJJZHNxAH4ADCMtvXp0AAY8aW5pdD5zcQB+AAzA3GXpdAARQWNjb3VudEFzc2lnbm1lbnRzcQB+AAwAHvAedAAFYXBwbHlzcQB+AAw7RaAEdAAFc3BhcmtzcQB+AAzoPPFgdAACPT1zcQB+AAzPD4+KdAAMQ3VzdG9tZXJEYXRhc3EAfgAM5ifMEXQABWNsb25lc3EAfgAMybXF13QADmNvcHkkZGVmYXVsdCQ3c3EAfgAM2tms8HQABiRpbml0JHNxAH4ADPSQap50AA5hdmVyYWdlQmFsYW5jZXNxAH4ADIvxDBl0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADCdvIqx0AARjb3B5c3EAfgAMplMFjnQACWFjY291bnREU3NxAH4ADCSRU+l0AAh0b1N0cmluZ3NxAH4ADNtk9bx0AARhcmdzc3EAfgAM/3Y0IHQAAiE9c3EAfgAM4Abk3XQACGdldENsYXNzc3EAfgAMZg3e9nQADm51bWJlckFjY291bnRzc3EAfgAMcw27q3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMJ13kEXQADmNvcHkkZGVmYXVsdCQ2c3EAfgAMrAn+ynQAAm5lc3EAfgAMM5BwunQAFUN1c3RvbWVyQWNjb3VudE91dHB1dHNxAH4ADKNdj2l0AAtjdXN0b21lckNTVnNxAH4ADLJOUsp0AAJlcXNxAH4ADEG6BH10AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxT4uE6dAALZGVsYXllZEluaXRzcQB+AAx/nhoxdAACIyNzcQB+AAz6aH4/dAAIYWNjb3VudHNzcQB+AAyjZO0WdAAIZmluYWxpemVzcQB+AAyTIOWsdAAIZm9yZW5hbWVzcQB+AAw6kdx6dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzbleyPdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAzY29tLnF1YW50ZXhhLmFzc2lnbm1lbnRzLmFjY291bnRzLkFjY291bnRBc3NpZ25tZW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJNMAAlpbmhlcml0ZWRxAH4Ak0wAB3BhcmVudHNxAH4Ak3hxAH4AsnNxAH4ArXVxAH4AjgAAAABzcQB+AK11cQB+AI4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AJRxAH4AnXVxAH4AngAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+ALx4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AsXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDWc3EAfgCgAHEAfgA/dXEAfgCjAAAAAHNxAH4AyXQABFVuaXRxAH4Az3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+ALx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AKZ0AAVQbGFpbnEAfgBnc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDKWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCxc3EAfgDJdAAFQXJyYXlxAH4Az3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgDJdAAGU3RyaW5nc3EAfgDNc3EAfgDQdXEAfgDTAAAAA3NxAH4A1XQABGphdmFzcQB+ANV0AARsYW5ncQB+ANpzcQB+AK11cQB+APEAAAAEc3EAfgDJdAADQXBwcQB+AM9zcQB+AMl0AAtEZWxheWVkSW5pdHEAfgDPc3EAfgDJdAAGT2JqZWN0cQB+APVzcQB+AMl0AANBbnlxAH4Az3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAGGNvbS5xdWFudGV4YS5hc3NpZ25tZW50c3NxAH4BCHQADGNvbS5xdWFudGV4YXNxAH4BCHQAA2NvbXNxAH4BCHQAIWNvbS5xdWFudGV4YS5hc3NpZ25tZW50cy5hY2NvdW50c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNrG0p11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABeL1VzZXJzL29kaHJhbmgvU291cmNlL1NwYXJrVGVzdFByb2plY3RXaXRob3V0QW5zd2Vycy9TcGFya1Rlc3RQcm9qZWN0L2J1aWxkL2NsYXNzZXMvc2NhbGEvbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFN9zvPJSrTx9OTNOdF/9ehyjtRCR
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwFUG+OgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA7c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwn6hBe3QABm5vdGlmeXNxAH4ADPAaSkJ0AAd1bmFwcGx5c3EAfgAMRlyB9XQAB2N1cnJpZWRzcQB+AAwfXUWBdAAEd2FpdHNxAH4ADIAf4M10AA5jb3B5JGRlZmF1bHQkMnNxAH4ADG+Xpdp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMMwASmXQAB2VuZERhdGVzcQB+AAzw+r5hdAAOY29weSRkZWZhdWx0JDVzcQB+AAxrviHadAAKc29ydGVkTGlzdHNxAH4ADBAO23Z0AAxwcm9kdWN0QXJpdHlzcQB+AAxJDzktdAAGZXF1YWxzc3EAfgAM+G2y5XQADm51bWJlck9mR3JvdXBzc3EAfgAMLmG+dHQADGFzSW5zdGFuY2VPZnNxAH4ADL8JwF90AA5leGVjdXRpb25TdGFydHNxAH4ADJPDwKd0AAxzeW5jaHJvbml6ZWRzcQB+AAzqeZlWdAAMaW5pdGlhbEdyb3Vwc3EAfgAMjlFu1nQADSRpc0luc3RhbmNlT2ZzcQB+AAzk6CJsdAAGdHVwbGVkc3EAfgAMHYOQyXQAC2N1c3RvbWVySWRzc3EAfgAMlSC9wXQAEUFkZHJlc3NBc3NpZ25tZW50c3EAfgAMyP8FT3QAC0FkZHJlc3NEYXRhc3EAfgAMd5cGgXQACGZpbGVOYW1lc3EAfgAMmEzt1XQACGNhbkVxdWFsc3EAfgAMOCKy/3QADmNvcHkkZGVmYXVsdCQ0c3EAfgAM36+/CHQABG1haW5zcQB+AAzjeqAadAANcHJvZHVjdFByZWZpeHNxAH4ADKKVtwF0AAlub3RpZnlBbGxzcQB+AAzu1zMpdAAMYWRkcmVzc0xpbmVzc3EAfgAMQb2LDXQADGlzSW5zdGFuY2VPZnNxAH4ADLL4Trp0AApjdXN0b21lcklkc3EAfgAM3VCzqnQABjxpbml0PnNxAH4ADI2ISOF0AAVhcHBseXNxAH4ADIh7Krx0AA1vY2N1cGFuY3lEYXRhc3EAfgAMsbU6vnQAAj09c3EAfgAM7p2MKnQACGZyb21EYXRlc3EAfgAMIrg4HHQABWNsb25lc3EAfgAMJJwfb3QABiRpbml0JHNxAH4ADMuqprh0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADGHXfCh0AARjb3B5c3EAfgAMU044hXQADWFkZHJlc3NHcm91cHNzcQB+AAyDIUjudAAIdG9TdHJpbmdzcQB+AAyrh93pdAAEYXJnc3NxAH4ADPT37HR0AAZ0b0RhdGVzcQB+AAweedh+dAACIT1zcQB+AAylAcWpdAAIZ2V0Q2xhc3NzcQB+AAys2QbydAAOY29weSRkZWZhdWx0JDFzcQB+AAzOlYT+dAACbmVzcQB+AAx9RrWvdAAJc3RhcnREYXRlc3EAfgAMw4dMaXQAD2dyb3VwRGF0YUJ5U3RheXNxAH4ADIxHksh0AAVncm91cHNxAH4ADHrs3dB0AAJlcXNxAH4ADDR1EiJ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAy50HzBdAALZGVsYXllZEluaXRzcQB+AAyadbAtdAACIyNzcQB+AAwYeFd2dAAIZmluYWxpemVzcQB+AAzLimoKdAASQWRkcmVzc0dyb3VwZWREYXRhc3EAfgAMXyCu83QADnByb2R1Y3RFbGVtZW50c3EAfgAMhuntN3QACGhhc2hDb2Rlc3EAfgAMKT2UOXQACWFkZHJlc3NJZHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AI14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ADRjb20ucXVhbnRleGEuYXNzaWdubWVudHMuYWRkcmVzc2VzLkFkZHJlc3NBc3NpZ25tZW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAA3QAGHNjYWxhLmFubm90YXRpb24udGFpbHJlY3QAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCoc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AI1MAAlpbmhlcml0ZWRxAH4AjUwAB3BhcmVudHNxAH4AjXhxAH4ArXNxAH4AqHVxAH4AiAAAAABzcQB+AKh1cQB+AIgAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AI5xAH4Al3VxAH4AmAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+ALd4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ArHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCsc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDRc3EAfgCaAHEAfgA/dXEAfgCdAAAAAHNxAH4AxHQABFVuaXRxAH4AynVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+ALd4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AKB0AAVQbGFpbnEAfgBhc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDFWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCsc3EAfgDEdAAFQXJyYXlxAH4AynVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgDEdAAGU3RyaW5nc3EAfgDIc3EAfgDLdXEAfgDOAAAAA3NxAH4A0HQABGphdmFzcQB+ANB0AARsYW5ncQB+ANVzcQB+AKh1cQB+AOwAAAAEc3EAfgDEdAADQXBwcQB+AMpzcQB+AMR0AAtEZWxheWVkSW5pdHEAfgDKc3EAfgDEdAAGT2JqZWN0cQB+APBzcQB+AMR0AANBbnlxAH4AynVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAGGNvbS5xdWFudGV4YS5hc3NpZ25tZW50c3NxAH4BA3QADGNvbS5xdWFudGV4YXNxAH4BA3QAImNvbS5xdWFudGV4YS5hc3NpZ25tZW50cy5hZGRyZXNzZXNzcQB+AQN0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWzaxtKddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQsZxrSItFYshY/EvDtpFPpU3aWnQ==
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPPC8swAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAuc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwS9p+knQAFVRyYW5zYWN0aW9uQXNzaWdubWVudHNxAH4ADEb+zmZ0AAZub3RpZnlzcQB+AAzcBmHkdAAHdW5hcHBseXNxAH4ADA0IEFh0AAdjdXJyaWVkc3EAfgAMuFFWX3QABHdhaXRzcQB+AAzAkpIWdAALVHJhbnNhY3Rpb25zcQB+AAzvkWXIdAAOY29weSRkZWZhdWx0JDJzcQB+AAxdsAA6dAANJGFzSW5zdGFuY2VPZnNxAH4ADGIZ7UF0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADGjsDNp0AAxwcm9kdWN0QXJpdHlzcQB+AAzI0Hm3dAAGZXF1YWxzc3EAfgAMEYDEMHQADGFzSW5zdGFuY2VPZnNxAH4ADDvjrWx0AAxzeW5jaHJvbml6ZWRzcQB+AAyMImeXdAANJGlzSW5zdGFuY2VPZnNxAH4ADGxdqCp0AAZ0dXBsZWRzcQB+AAzCK9qBdAAIZmlsZU5hbWVzcQB+AAxs0BcQdAAIY2FuRXF1YWxzcQB+AAyRrH8pdAAOY29weSRkZWZhdWx0JDRzcQB+AAxCIQ8DdAAJYWNjb3VudElkc3EAfgAMORpoynQADXByb2R1Y3RQcmVmaXhzcQB+AAyyEyg6dAAJbm90aWZ5QWxsc3EAfgAMz8KFm3QADGlzSW5zdGFuY2VPZnNxAH4ADE05vwN0AAY8aW5pdD5zcQB+AAx3XilPdAARdHJhbnNhY3Rpb25BbW91bnRzcQB+AAyYY2ugdAAFYXBwbHlzcQB+AAwBsPbOdAACPT1zcQB+AAyKL9S3dAAFY2xvbmVzcQB+AAy9829idAAGJGluaXQkc3EAfgAMY81K0XQADmNvcHkkZGVmYXVsdCQzc3EAfgAM74ZjanQAEHRyYW5zYWN0aW9uTGluZXNzcQB+AAwP0VZjdAAEY29weXNxAH4ADN/HSu50AAhjYXRlZ29yeXNxAH4ADNEoPOl0AA50cmFuc2FjdGlvbkRheXNxAH4ADLldNzF0AAh0b1N0cmluZ3NxAH4ADNMh8Xd0AAIhPXNxAH4ADLF5jo90AAhnZXRDbGFzc3NxAH4ADEmE5/50AA5jb3B5JGRlZmF1bHQkMXNxAH4ADNxMTT10AAJuZXNxAH4ADKJPAHR0AAJlcXNxAH4ADFGzqsh0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAzPx6bUdAAMdHJhbnNhY3Rpb25zc3EAfgAM/1DS9XQADXRyYW5zYWN0aW9uSWRzcQB+AAxOzC0+dAACIyNzcQB+AAxj02MSdAAIZmluYWxpemVzcQB+AAzC8HeadAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwakzZhdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBzeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAA7Y29tLnF1YW50ZXhhLmFzc2lnbm1lbnRzLnRyYW5zYWN0aW9ucy5UcmFuc2FjdGlvbkFzc2lnbm1lbnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AItzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ac0wACWluaGVyaXRlZHEAfgBzTAAHcGFyZW50c3EAfgBzeHEAfgCQc3EAfgCLdXEAfgBuAAAAAHNxAH4Ai3VxAH4AbgAAAABzcQB+AIt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AI90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AI9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AKh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKlzcQB+AJx0AANBbnlzcQB+AKBzcQB+AKN1cQB+AKYAAAACc3EAfgCodAAFc2NhbGFxAH4Ar3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAGGNvbS5xdWFudGV4YS5hc3NpZ25tZW50c3NxAH4AuXQADGNvbS5xdWFudGV4YXNxAH4AuXQAA2NvbXNxAH4AuXQAJWNvbS5xdWFudGV4YS5hc3NpZ25tZW50cy50cmFuc2FjdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWzaxtKddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTTjXvx+aSuqD/cdaloi0xVRIU+vA==
+external apis:
+0 items
+source infos:
+3 items
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/accounts/AccountAssignment.scala -> 
+AAAAAAAAAAA=
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/addresses/AddressAssignment.scala -> 
+AAAAAAAAAAA=
+/Users/odhranh/Source/SparkTestProjectWithoutAnswers/SparkTestProject/src/main/scala/com/quantexa/assignments/transactions/TransactionsAssignment.scala -> 
+AAAAAAAAAAA=
+compilations:
+15 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNiO+vd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNieyhR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNigexF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNiiZi51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNizuAZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNi0KDB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNi1EjR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNi1vaR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNq4j6t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNq6nqF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNq78HN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNq8mr51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNq/ElF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNrAsJ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbNrG0p11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9vZGhyYW5oL1NvdXJjZS9TcGFya1Rlc3RQcm9qZWN0V2l0aG91dEFuc3dlcnMvU3BhcmtUZXN0UHJvamVjdC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
